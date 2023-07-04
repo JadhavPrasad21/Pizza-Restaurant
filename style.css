@@ -1,0 +1,22 @@
+.collapse {
+    justify-content: center;
+    
+}
+.gallery-image img {
+    width:155px;
+    margin-bottom: 7px;
+    margin-right: 150px;
+    
+    
+}
+.text-icon img {
+    margin-left: 80%;
+    margin-top:-12px;
+}
+body {
+    background-color: black;
+}
+.nav-item a {
+    color:white;
+    font-family: 'Ruda', sans-serif;
+}
